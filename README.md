@@ -4,6 +4,8 @@ I am an **Industrial Engineering** student at **Mudanya University** with a stro
 
 My focus is on the intersection of engineering and data, particularly in building end-to-end **Machine Learning (ML)** and **Computer Vision** applications, from model training to deployment as interactive web services.
 
+> "The best way to predict the future is to create it."
+
 ---
 
 ### Core Competencies
@@ -15,7 +17,7 @@ My focus is on the intersection of engineering and data, particularly in buildin
 
 ---
 
-### 🚀 Key Projects
+### Key Projects
 
 * **Sensor Fault Detector (Predictive Maintenance)**
     * Developed an end-to-end ML pipeline using `scikit-learn` and `RandomForestClassifier` to perform multi-class fault classification (e.g., `Overload`, `Overheating`) from sensor data.
@@ -31,9 +33,9 @@ My focus is on the intersection of engineering and data, particularly in buildin
 
 ---
 
-### 📫 Get In Touch
+### Get In Touch
 
-* `🔭` I’m currently focused on enhancing my skills in deep learning and MLOps.
-* `💬` Ask me about: **YOLOv8**, **FastAPI**, or **Predictive Maintenance**.
-* `👯` I am open to collaborating on data-driven engineering or computer vision projects.
-* `📫` How to reach me: **[https://www.linkedin.com/in/berke-baran-tozkoparan-2b347a294/]** | **[230102009@stu.mudanya.edu.tr]**
+* I’m currently focused on enhancing my skills in deep learning and MLOps.
+* Ask me about: **YOLOv8**, **FastAPI**, or **Predictive Maintenance**.
+* I am open to collaborating on data-driven engineering or computer vision projects.
+* How to reach me: **[https://www.linkedin.com/in/berke-baran-tozkoparan-2b347a294/]** | **[230102009@stu.mudanya.edu.tr]**
