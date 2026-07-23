@@ -38,4 +38,4 @@ My focus is on the intersection of engineering and data, particularly in buildin
 * I’m currently focused on enhancing my skills in deep learning and MLOps.
 * Ask me about: **YOLOv8**, **FastAPI**, or **Predictive Maintenance**.
 * I am open to collaborating on data-driven engineering or computer vision projects.
-* How to reach me: **[https://www.linkedin.com/in/berke-baran-tozkoparan-2b347a294/]** | **[230102009@stu.mudanya.edu.tr]**
+* How to reach me: **[https://www.linkedin.com/in/berke-baran-tozkoparan-2b347a294/]** | **[berkebaran00@gmail.com]**
