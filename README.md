@@ -1,41 +1,39 @@
-### Berke Baran Tozkoparan
+# Berke Baran Tozkoparan
 
-I am an **Industrial Engineering** student at **Mudanya University** with a strong passion for data science, software development, and applying quantitative methods to solve complex problems.
+Industrial Engineering student focused on artificial intelligence, data science, computer vision, predictive maintenance, and intelligent decision-support systems.
 
-My focus is on the intersection of engineering and data, particularly in building end-to-end **Machine Learning (ML)** and **Computer Vision** applications, from model training to deployment as interactive web services.
+I build end-to-end projects covering data preparation, model development, evaluation, automation, and interactive deployment.
 
-> "The best way to predict the future is to create it."
+## AI Project Portfolio
 
----
+Choose a category to explore the related repositories:
 
-### Core Competencies
+| Category | Focus | Projects |
+| --- | --- | ---: |
+| [YOLO & Computer Vision](./YOLO/) | Object detection, tracking, segmentation, and visual inspection | 12 |
+| [Machine Learning](./Machine-Learning/) | Classification, forecasting, predictive maintenance, and analytics | 22 |
+| [LLM & AI Automation](./LLM/) | Language models, agents, document QA, and workflow automation | 6 |
 
-* **Machine Learning (ML):** Predictive Modeling, Classification, Regression, ML Pipelines, Scikit-learn, Pandas, NumPy.
-* **Computer Vision:** Object Detection, **YOLOv8**, Convolutional Neural Networks (**CNN**), OpenCV, Thermal Imaging Analysis.
-* **Web Development & Deployment:** Python, **FastAPI**, **Gradio**, Leaflet.js, API Development.
-* **Engineering & Analytics:** Industrial Engineering principles, Statistical Analysis, Data Visualization.
+## Current Focus
 
----
+- Command-and-control and AI-assisted decision-support systems
+- Computer vision and sensor-fusion applications
+- Predictive maintenance and industrial data pipelines
+- LLM agents and workflow automation
 
-### Key Projects
+## Core Technologies
 
-* **Sensor Fault Detector (Predictive Maintenance)**
-    * Developed an end-to-end ML pipeline using `scikit-learn` and `RandomForestClassifier` to perform multi-class fault classification (e.g., `Overload`, `Overheating`) from sensor data.
-    * Deployed the model as an interactive web dashboard using **Gradio**, allowing for real-time predictions and data visualization.
+`Python` · `YOLOv8` · `OpenCV` · `TensorFlow` · `Keras` · `scikit-learn` · `XGBoost` · `Streamlit` · `Gradio` · `FastAPI` · `n8n` · `Docker` · `Kafka`
 
-* **Composite Battery Damage Detection (TÜBİTAK 2209 Project)**
-    * A computer vision system designed to detect and classify damage in composite batteries using thermal imagery.
-    * Utilized **YOLOv8**, a state-of-the-art CNN architecture, to train a custom object detection model for real-time fault identification.
+## Selected Projects
 
-* **AutoPredictor (ML Web Application)**
-    * An end-to-end application for vehicle price prediction.
-    * The backend API was built using **FastAPI** to serve model predictions, while the frontend featured interactive data visualizations using **Leaflet.js**.
+- [Drone Detection](https://github.com/BerkeTozkoparam/drone-detection) — YOLOv8-based drone detection and tracking pipeline.
+- [Welding Defect Detection](https://github.com/BerkeTozkoparam/welding-defect-detection) — FCN and YOLO ensemble for industrial visual inspection.
+- [Bosch TEF4.1 Predictive Maintenance Lab](https://github.com/BerkeTozkoparam/bosch-tef41-predictive-maintenance-lab) — Simulated industrial data pipeline using Kafka and machine learning.
+- [Acoustic Drone Detection](https://github.com/BerkeTozkoparam/acoustic-drone-detection) — MFCC and XGBoost-based acoustic detection dashboard.
+- [YouTube Content Radar](https://github.com/BerkeTozkoparam/n8n_youtube_automation) — Gemini-assisted n8n workflow for content research and planning.
 
----
+## Contact
 
-### Get In Touch
-
-* I’m currently focused on enhancing my skills in deep learning and MLOps.
-* Ask me about: **YOLOv8**, **FastAPI**, or **Predictive Maintenance**.
-* I am open to collaborating on data-driven engineering or computer vision projects.
-* How to reach me: **[https://www.linkedin.com/in/berke-baran-tozkoparan-2b347a294/]** | **[berkebaran00@gmail.com]**
+- [LinkedIn](https://www.linkedin.com/in/berke-baran-tozkoparan-2b347a294/)
+- [Email](mailto:berkebaran00@gmail.com)
